@@ -17,7 +17,6 @@ services:
         value: "badmusic_ytstream_apikey_2025"
       - key: API_URL
         value: "http://3.0.146.239:1470/youtube"
-      - key: BOT_TOKEN
       - key: MONGO_DB_URI
         value: "mongodb+srv://pyaesone:pyaesone@pyaesone.ii8wsxo.mongodb.net/?retryWrites=true&w=majority"
       - key: OWNER_ID
