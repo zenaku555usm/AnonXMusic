@@ -76,8 +76,8 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-API_URL = getenv("API_URL")
-API_KEY = getenv("API_KEY")
+API_URL = getenv("API_URL , "http://3.0.146.239:1470/youtube")
+API_KEY = getenv("API_KEY , "badmusic_ytstream_apikey_2025")
 DOWNLOADS_DIR = "downloads"
 
 
